@@ -1,0 +1,23 @@
+Senior Backend Engineer — Northwind Analytics
+
+Location: Austin, TX (Hybrid, 3 days in office)
+Employment type: Full-time
+Salary: $150,000 – $180,000 per year + equity
+
+About us
+Northwind Analytics builds real-time reporting tools for mid-size retailers.
+
+What you'll do
+- Design and maintain Python services powering our ingestion pipeline
+- Own PostgreSQL schema design and query performance
+- Mentor two junior engineers
+
+Requirements
+- 5+ years of backend experience
+- Strong Python (FastAPI or Django)
+- Experience with AWS (ECS, SQS, RDS)
+
+Nice to have
+- Kafka, dbt
+
+How to apply: send your CV to careers@northwind-analytics.example by December 15, 2026.

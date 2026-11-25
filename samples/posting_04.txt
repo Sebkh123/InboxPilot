@@ -1,0 +1,61 @@
+
+At Too Good To Go, we have an ambitious goal: to inspire and empower everyone to fight food waste together. 40% of all food produced in the world is wasted, contributing to 10% of global greenhouse gas emissions. We’re more than an app, we are a social impact company working across 20 countries to drive change through our marketplace app, educational tools, legislative work, and logistics initiatives.
+
+Our community of 118 million registered users and 246,000 active partners, have together already prevented 443+ million meals from going to waste - avoiding over 1.198.000 tonnes of CO2e!
+
+The Role
+
+Too Good To Go is looking for a Data Platform Engineer to help build and scale the data infrastructure, enabling the global mission to reduce food waste.
+
+You would be part of the Platform team based in Copenhagen HQ. Data Platform enables multiple teams including Backend, ML, Analytics, and Marketing by helping them manage data infrastructure powering batch pipelines, live inference, and streaming initiatives across the company. In this role, you will work at the intersection of platform infrastructure and data engineering, scaling the ecosystem to meet the needs of the teams building on it. You will be responsible for designing, improving, and implementing reliable, robust data systems and the ingestion flows that feed both our backend app and our BI tools, supporting growth and better decisions across the company.
+
+This is a role for someone who enjoys solving complex infrastructure problems and learning new technologies. You will work closely with analytics engineers, ML engineers, and product managers to build practical solutions for problems that don't have a standard answer, and to scale the platform that serves many teams.
+
+Tech Stack
+
+Our data stack includes AWS (Redshift, Lambda, Kinesis, Firehose, S3, Glue, EMR, AppFlow), Airflow, Flink, dlt, dbt, and Metaflow, built and managed with Python and Terraform following GitOps principles.
+
+Key Responsibilities
+
+Data Processing: Design and maintain data processing solutions with focus on reusable infra systems. Build and maintain data services that enable external teams to power personalization, product discovery, lead generation, dynamic pricing and BI dashboards. Work together with analytics engineers to bring new data sources into the central warehouse.
+Platform Ownership: Own the shared infrastructure that other teams build on. That covers ML workflows (Metaflow), the data processing platform (Glue, AppFlow, Airflow, Lambda), and data storage (Redshift, OpenSearch, RDS, S3). Build self-service tooling so teams can deploy and operate their own pipelines independently.
+Cross-Functional Collaboration: Partner closely with Product Managers and Tech Leads within ML, Finance, Marketing and Analytics domains to translate operational use cases into clear, robust technical requirements to improve our product.
+Data Quality & SLAs: Automate both observability metrics and data integrity tests to ensure reliable, trusted data sources, and strong data governance across central warehouse and external team product workflows.
+
+What We're Looking For
+
+Data Engineering: Strong proficiency in Python and SQL, understanding of modern data warehouse internals (AWS Redshift) and efficient ways of working on S3. A good understanding of data engineering fundamentals, including scalability, reliability, fault tolerance, and operational trade-offs.
+Production pipelines: Solid experience designing, building, and operating data processing solutions (Airflow, AppFlow, Metaflow, dbt, dlt), and working with distributed systems in production (Spark on EMR, Glue).
+DataOps: Strong software engineering and systems engineering skills, with a record of managing platform-level systems, not just pipelines. Experience applying DataOps, GitOps, Terraform, CI/CD tools (GitHub Actions, Docker) and observability tools. Familiarity with MLOps principles, cloud-native infrastructure and container orchestration.
+Nice to have: Streaming experience (Kinesis, Firehose, Flink), Kubernetes and Helm experience
+
+What We Offer
+
+Opportunity to work at a scaling social impact company and directly reduce food waste globally.
+Work-life balance focus (no mandatory overtime or standard on-call duty).
+Hybrid work setup in our Copenhagen HQ (4 days in office).
+To be part of an international company, with over 1,300+ colleagues across 19 countries that are on the same important mission.
+An informal environment, working alongside 180+ passionate people within Tech & Product
+We celebrate our differences and our successes and have a strong values-driven team culture.
+
+Our values
+
+We win together: Food waste is a big beast to fight. We believe in a #oneteam.
+
+We raise the bar: We always push for more. We work smart, smash barriers and elevate one another.
+
+We keep it simple: Our ambitions are bold but our solutions are simple.
+
+We build a legacy: We’re proud of the change we’re driving.
+
+We care: We always look out for each other. Caring is also about the way we do business. We do the right thing.
+
+How To Apply
+
+We take recruitment very seriously, so please carefully read everything we have written above.
+
+Please also check our website and international media in order to get a good overview of Too Good To Go.
+
+Please submit your CV in English.
+
+Please note that we only accept applications coming through our platform. No CV or Cover Letter will be accepted by email or LinkedIn direct messaging.

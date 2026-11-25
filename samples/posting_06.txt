@@ -1,0 +1,62 @@
+latpay has become one of the fastest-growing payment companies by helping merchants accept payments in-store and online. With 100,000+ merchants relying on us today, every card tap, refund, chargeback and payout has to be captured, reconciled and paid out correctly — every day, across multiple payment providers and markets.
+
+Transactions is one of Flatpay's most critical engineering domains. We own the platform that ingests transaction and settlement data from our payment providers, reconciles it, and turns it into the payouts, settlements and analytics that merchants and the rest of Flatpay depend on.
+
+As a Software Engineer, you'll help build and evolve Flatpay's transaction platform — from how we model payments, settlements and disputes, to how we build event-driven systems that process millions of transactions reliably and connect with the payment providers on the other end. This is an opportunity to join a company that has grown from startup to unicorn at record speed. You'll have real ownership, room to grow, and a direct impact on the money flows that 100,000+ businesses rely on. As we expand across markets and providers, you'll help Flatpay scale its payment data infrastructure.
+
+We're an engineering team that embraces AI tooling. We use AI coding agents as part of how we design, build, test and review software, and we invest in the tooling, guardrails and conventions that make that work well. You don't need to be an expert — curiosity and a willingness to learn and shape how we work with AI are what matter.
+
+If you care about the correctness and reliability that money movement demands, this is a domain where your work will play a central role in Flatpay's future growth.
+
+What you'll do
+
+Design and build scalable systems that power Flatpay's transaction, settlement and payout processing
+Take ownership of features from design and implementation through deployment and maintenance
+Build APIs, services, event-driven pipelines and data models that handle payment data accurately and at scale
+Integrate with payment providers — webhooks, settlement files, reports — and keep those integrations reliable as providers change
+Improve reliability, observability, performance, and security across the platform — with particular attention to the accuracy and idempotency that financial data requires
+Learn and help shape how the team works with AI tooling
+Partner with engineers, product managers, and stakeholders to deliver technical and product outcomes
+Contribute to engineering standards and best practices as the domain continues to grow
+
+Who you are
+
+3+ years of professional software engineering experience
+Experience building and operating backend services, ideally distributed or event-driven systems
+Experience building APIs and integrating with internal or third-party systems
+Curious about AI coding tools and open to making them part of your daily workflow
+Comfortable with ambiguity and eager to learn a new domain
+Strong communication and collaboration skills
+Experience within payments, settlements, reconciliation, or financial data platforms is a plus
+
+You'll Be Working With Technologies Such As
+
+Java, Spring Boot
+MySQL, PostgreSQL / TimescaleDB
+REST APIs, webhooks and event-driven architecture (RabbitMQ, AWS SQS, EventBridge)
+Domain Driven Design
+Docker, AWS (ECS, Lambda, S3)
+GitHub Actions, CI/CD, observability and monitoring (New Relic)
+AI coding agents (Claude Code and similar)
+
+We don't expect experience with everything on that list — we're looking for engineers who learn quickly and help us build great products.
+
+Why Flatpay?
+
+As part of our team, you'll join 2,600+ passionate Flatpayers dedicated to shaping the future of payments.
+
+You'll work on the core of what Flatpay does — moving money for merchants correctly and on time.
+
+We offer an inclusive environment where engineers are trusted with ownership and encouraged to make an impact.
+
+Our engineering teams work together from our Copenhagen office. We believe that close collaboration, quick feedback loops, and solving problems side-by-side help us build better products, move faster, and create a stronger engineering culture.
+
+We also provide plenty of perks including free slush ice, an on-site gym, a fully equipped gamer room, and much more.
+
+If you're ready to help build and scale the future of payments, we'd love to hear from you.
+
+Established in 2022 in Copenhagen with a commitment to transparency, we've streamlined card payments to small and medium-sized businesses. Our innovative pricing model eliminates hidden costs and fees, offering a simple flat rate for all cards with no monthly subscription for our point-of-sale and payment solutions.
+
+Operating in Denmark, Finland, Germany, Italy, France, the United Kingdom, and the Netherlands, we're more than just a service provider; we are your trusted business partner.
+
+We continuously strive to stay ahead of the curve, adapting our solutions to meet our clients' evolving needs. Ready to be part of something extraordinary?

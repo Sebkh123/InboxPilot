@@ -1,0 +1,31 @@
+We are looking for a AI- & Copilot Studio Consultant for our client in the entertainment industryThe client's innovation unit operates within an agile corporate startup environment, focusing on developing and scaling digital products. Their ambition is to become an AI-native organization where AI agents and intelligent automation are integrated into everyday business processes.Having taken the initial steps with Microsoft Copilot Studio, the client is looking for a hands-on consultant who can identify process improvement opportunities, develop AI-driven solutions, and drive their implementation and adoption across the team.
+Key responsibilities:
+Facilitating workshops to map business processes and identify opportunities for AI-driven process optimization and automation.
+Designing future-state agentic processes, including roles, responsibilities, human oversight, and escalation mechanisms.
+Configuring, developing, testing, and deploying AI agents and automated workflows using Microsoft Copilot Studio and Power Platform.
+Driving solution rollout, user adoption, training, and knowledge transfer.
+Establishing governance guidelines and a reusable implementation playbook to enable the team to independently continue and scale the initiative.
+Measuring business impact, efficiency gains, and user adoption.
+
+Required qualifications:
+Hands-on experience with Microsoft Copilot Studio, including building, configuring, and deploying AI agents.
+Experience with AI-driven automation, Power Automate, connectors, and Microsoft 365 integration.
+Strong understanding of business processes, process optimization, and automation opportunities.
+Experience with workshop facilitation and translating business needs into practical AI solutions.
+Experience driving implementation, rollout, and user adoption.
+A proactive, curious, and solution-oriented mindset with the ability to work in an agile environment.
+
+Nice to haves:
+Experience with agentic process design and human-in-the-loop mechanisms.
+Familiarity with BPMN or Value Stream Mapping.
+Knowledge of Power Platform governance, security, DLP, and environment management.
+Experience with change management and innovation environments.
+Experience within regulated industries, including knowledge of GDPR, the EU AI Act, or responsible gambling practices.
+Danish language proficiency.
+
+Start date: 01-01-2027End date: 30-04-2027Location: Brøndby, Denmark  Required skillsCopilotProcess management/optimizationImplementation and adoptionMicrosoft CopilotAIAgile
+Preferred skillsWorkshop FacilitationBPMNChange Management
+LanguagesEnglish (Proficient)
+
+Additional details / client note;
+Hours per week: 40

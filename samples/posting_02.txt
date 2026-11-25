@@ -1,0 +1,49 @@
+l du tage ejerskab for fundamentet under vores cloud-løsninger og være med til at gøre det nemmere, sikrere og hurtigere at udvikle nye services? Har du erfaring med Microsoft Azure, Infrastructure as Code og CI/CD, og trives du med både at bygge selv og sætte retning for eksterne leverandører? Så er du måske vores nye Cloud Engineer.
+Dit nye teamDu bliver en del af Data & Digitalisering og herunder IT Operations, der består af specialister med forskellige kompetencer og ansvarsområder. Teamet arbejder med at sikre en stabil, sikker og effektiv IT-platform og understøtter samtidig EIFOs fortsatte digitalisering. 
+Vi er en del af Finance & Digitalisation, der samler stabsfunktioner som Finance, People & Culture og IT i EIFO. 
+Om rollenDu får en central rolle i at eje og videreudvikle vores Azure-platform. Vi har både Microsoft Azure og et Nutanix-miljø med Kubernetes i eget datacenter, og dit primære fokus bliver Azure-siden og de fælles platformskomponenter, som udviklerne skal kunne betjene sig selv med. 
+Azure-platformlaget er i dag opbygget med hjælp fra en ekstern konsulent. Du kommer både til selv at bygge løsninger og til at sætte retning for konsulentens leverancer, herunder vurdere, hvad der skal prioriteres, og hvornår løsningerne er gode nok til produktion. 
+Du får desuden en vigtig rolle i at fastlægge, hvordan nye services kommer sikkert og ensartet i produktion. Det kræver teknisk dømmekraft, evnen til at træffe valg og modet til at sige fra, når en løsning ikke bør gennemføres. 
+Dine primære ansvarsområder vil være følgende: 
+Azure-platform: Være medejer på Azure-platformlaget, uanset om løsningerne er bygget internt eller af eksterne konsulenter. 
+Selvbetjening og standardisering: Udvikle subscription- og landing zone-struktur, Azure Policy som guardrails, genanvendelige IaC-moduler og pipeline-templates, så nye services automatisk arver en godkendt og ensartet opsætning. 
+Observability: Samle logningen ét sted, få styr på alerting og fælles dashboards, og lægge planen for overgangen til OpenTelemetry 
+Integrationer: Drive API-gatewayen i Azure API Management og på sigt en fælles beskedbroker, så integrationskomponenter kan genbruges på tværs af projekter. 
+Sikkerhed og adgangsstyring: Hæve sikkerhedsniveauet på platformen, herunder håndtere fund fra Microsoft Defender for Cloud og arbejde med adgangsstyring. 
+Automatisering: Automatisere manuelt driftsarbejde og bidrage til mere effektive, stabile og sporbare arbejdsgange. 
+
+Hvem er du? Vi forestiller os, at du: 
+Har praktisk erfaring med Microsoft Azure og en stærk interesse for cloud-platforme og platform engineering. 
+Har erfaring med Infrastructure as Code, fx Terraform eller Bicep. 
+Har arbejdet med CI/CD-pipelines, gerne i Azure DevOps eller GitHub Actions. 
+Har praktisk erfaring med Microsoft Entra ID, herunder managed identities og grupper. 
+Kan arbejde videre i løsninger, som andre har bygget, og kan stille tydelige krav til eksterne leverandører. 
+Arbejder struktureret, tager ejerskab og kan omsætte tekniske behov til robuste og genanvendelige løsninger. 
+Kommunikerer klart og kan samarbejde med både udviklere, drift, sikkerhedsspecialister og eksterne konsulenter. 
+
+Du behøver ikke kunne det hele fra dag ét. Vi lægger især vægt på, at du kan sætte dig ind i nye teknologier, træffe velbegrundede valg og tage ansvar for at føre dem ud i livet. 
+Det er et plus, men ikke et krav, hvis du også har erfaring med: 
+Hybride miljøer med både cloud og eget datacenter. 
+Landing zones, Azure Policy og RBAC i større Azure-opsætninger. 
+IaC-moduler udviklet til genbrug og selvbetjening. 
+Log Analytics, KQL, Azure Monitor, alert rules og dashboards. 
+Azure-netværk, herunder private endpoints, DNS og peering. 
+Microsoft Defender for Cloud og vurdering og prioritering af sikkerhedsfund. 
+Azure API Management samt Service Bus, RabbitMQ eller tilsvarende beskedteknologier. 
+OpenTelemetry, Grafana eller Kubernetes i drift. 
+
+Det tilbyder vi – stærkt formål og attraktive vilkårI EIFO arbejder du for dansk erhvervslivs fremtid, og du får mulighed for at skabe reel værdi for virksomheder, der driver vækst, grøn omstilling og innovation. 
+Du får: 
+Et spændende og udfordrende job med et klart formål og stor samfundsmæssig betydning. 
+En nøgleposition med reel indflydelse på, hvordan EIFOs cloud-platform udvikles og styres. 
+Mulighed for at styrke sikkerhed, driftsoverblik og udviklernes leverancehastighed samt reducere afhængigheden af eksterne konsulenter over tid. 
+En arbejdsplads præget af forretningsfokus, enkelhed og tillid i en uhøjtidelig kontekst. 
+Attraktive vilkår, fleksibilitet og plads til både ambition og balance i arbejdslivet. 
+Engagerede og fagligt dygtige kolleger i en mangfoldig og inkluderende kultur, hvor forskellighed ses som en styrke. 
+
+Er det dig, vi leder efter?Send din ansøgning og CV via ansøgningslinket snarest muligt og senest den 4. december 2026.
+Som led i vores arbejde med inkluderende rekruttering beder vi dig venligst om ikke at inkludere billede, alder og civilstand i dit ansøgningsmateriale. 
+Forløbet omfatter to samtalerunder, hvor anden runde indeholder assessment (logik- og personlighedsanalyse). Referencer indhentes efter aftale, og straffeattest skal fremvises ved ansættelse. Tiltrædelse hurtigst muligt. 
+Vil du vide mere om stillingen, er du velkommen til at kontakte Jan Børresen, Head of IT Operations, på +45 40 26 24 28 eller jcb@eifo.dk. 
+Hos EIFO tror vi på, at diversitet skaber bedre løsninger, og derfor opfordrer vi alle kvalificerede kandidater til at søge.
+Vi ser frem til at høre fra dig! 

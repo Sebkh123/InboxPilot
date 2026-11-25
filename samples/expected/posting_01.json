@@ -1,0 +1,31 @@
+{
+  "title": "Senior Backend Engineer",
+  "company": "Northwind Analytics",
+  "locations": ["Austin, TX"],
+  "work_mode": "hybrid",
+  "remote_restrictions": null,
+  "employment_type": "full_time",
+  "contract_duration": null,
+  "compensation": {
+    "min_amount": 150000,
+    "max_amount": 180000,
+    "currency": "USD",
+    "period": "year",
+    "extras": ["equity"]
+  },
+  "min_years_experience": 5,
+  "responsibilities": [
+    "Design and maintain Python services for the ingestion pipeline",
+    "Own PostgreSQL schema design and query performance",
+    "Mentor two junior engineers"
+  ],
+  "requirements": ["Python (FastAPI or Django)", "AWS (ECS, SQS, RDS)"],
+  "nice_to_have": ["Kafka", "dbt"],
+  "benefits": [],
+  "visa_sponsorship": null,
+  "apply_url": null,
+  "apply_email": "careers@northwind-analytics.example",
+  "deadline": "2026-12-15",
+  "start_date": null,
+  "contact": null
+}

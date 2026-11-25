@@ -1,0 +1,24 @@
+AI & Copilot Studio SpecialistWe are looking for an AI & Copilot Studio Specialist for a company in the entertainment industry.The company's innovation unit works as an agile corporate startup, developing and scaling digital products. The ambition is to become an AI-native organization where AI agents and intelligent automation are part of everyday business processes. The first steps with Microsoft Copilot Studio have been taken. Now we need a hands-on specialist who can identify process improvement opportunities, build AI-driven solutions and drive implementation and adoption across the team.
+Key responsibilities
+Facilitate workshops to map business processes and identify opportunities for AI-driven optimization and automation
+Design future-state agentic processes, including roles, responsibilities, human oversight and escalation mechanisms
+Configure, develop, test and deploy AI agents and automated workflows using Microsoft Copilot Studio and Power Platform
+Drive solution rollout, user adoption, training and knowledge transfer
+Establish governance guidelines and a reusable implementation playbook, so the team can continue and scale the initiative independently
+Measure business impact, efficiency gains and user adoption
+
+Required experience
+Hands-on experience with Microsoft Copilot Studio, including building, configuring and deploying AI agents
+Experience with AI-driven automation, Power Automate, connectors and Microsoft 365 integration
+Strong understanding of business processes, process optimization and automation opportunities
+Experience facilitating workshops and translating business needs into practical AI solutions
+Experience driving implementation, rollout and user adoption
+Ability to work in an agile environment
+
+Nice to have
+Agentic process design and human-in-the-loop mechanisms
+BPMN or Value Stream Mapping
+Power Platform governance, security, DLP and environment management
+Change management and work in innovation environments
+Experience in regulated industries, including GDPR, the EU AI Act or responsible gambling practices
+Danish language proficiency

@@ -1,0 +1,72 @@
+
+Lundbeck is on a clear journey to become a bionic company—where data, AI, and digital capabilities are embedded in how we make decisions, scale responsibly, and create value.
+
+Enterprise Data plays a strategic enablement role in this journey. We do not own business outcomes—we enable them by building strong, secure, and scalable data foundations that power analytics, BI, and AI across the organization.
+
+We are looking for a Data Platform Engineer to help develop and evolve our SAP data and analytics platform landscape, with a focus on SAP Analytics Cloud (SAC), SAP Datasphere, and the future adoption of SAP Business Data Cloud (BDC).
+
+You do not need to be an expert in all these technologies from day one. We are equally interested in someone with experience in SAP technologies and an interest in platform engineering, or someone with a strong engineering background who is motivated to develop expertise within the SAP ecosystem.
+
+What matters most is your technical curiosity, engineering mindset, and ambition to build reliable, automated, and scalable enterprise platforms.
+
+Your new role 
+
+You will focus on hands-on platform engineering: configuration, automation, deployments, integration, security, and lifecycle management. You will work closely with Platform Architects, Solution Architects, and Platform Engineers across our other enterprise data platforms.
+
+Your responsibilities will include:
+
+Engineer and improve SAC, SAC Planning, and Datasphere capabilities, and help enable BDC as our landscape evolves. 
+Strengthen automation, CI/CD, deployment practices, and reusable engineering standards using appropriate SAP tools and APIs. 
+Support technical configuration, access controls, security, testing, changes, releases, and platform lifecycle management. 
+Collaborate across SAP, Snowflake, and Microsoft platforms on integration patterns and common engineering practices. 
+Work with our Application Management Services (AMS) partner on complex technical issues, root cause analysis, change implementation, knowledge transfer, and operational handover. 
+Explore emerging platform capabilities and contribute to continuous technical improvement. 
+
+
+Your future team 
+
+You will join the Enterprise Data Platform team within Enterprise Digital Enablement, responsible for the technical foundations of Lundbeck’s enterprise data platforms.
+
+We work across SAP, Snowflake, dbt, Microsoft Fabric, sharing expertise and standards across technologies. Our AMS partners handle day-to-day operational monitoring and support, while our engineers focus on evolving the platforms and improving their capabilities.
+
+The position is based in Valby, Copenhagen, Denmark.
+
+What You Bring To The Team
+
+You are curious, collaborative, and motivated by making technology more reliable, automated, and scalable. You might be early in your career or an experienced specialist. We value your engineering potential as well as your existing technical experience.
+
+We would particularly value:
+
+Experience with SAP technology, ideally SAC, Datasphere, SAP BTP, or related cloud services. 
+Understanding of platform configuration, administration, integration, or technical operations. 
+Interest or experience in automation, APIs, Git, CI/CD, Python, SQL, Terraform, or similar tools. 
+A structured approach to security, documentation, troubleshooting, and technical quality. 
+The ability to work effectively with architects, engineers, and external service partners. 
+SAC experience is a strong starting point, but experience with all the technologies is not required. If you bring relevant skills and the motivation to learn, we encourage you to apply. 
+
+
+Our promise to you 
+
+Lundbeck offers an inspiring workplace and innovative culture, where curiosity, accountability, and adaptability enable us to transform lives. We are committed to addressing the significant unmet needs of people living with brain disorders—and we know strong digital foundations are critical to achieving this ambition.
+
+We offer rewarding careers with exciting technical challenges and development opportunities, balanced with initiatives focused on well-being and sustainable performance.
+
+We need every brain in the game, and at Lundbeck, we are committed to building a workforce that reflects the diversity of the people we serve.
+
+Annual base salary range: 687 000 - 944 900 DKK gross
+
+At Lundbeck, we are committed to fair and transparent pay. Please note that the final base salary within the stated range will be based on relevant qualifications, skills, competencies, and level of proficiency as well as internal pay equity.
+
+Apply now 
+
+Can you see yourself in this role? We would love to hear from you. Even if you do not meet every requirement, we encourage you to apply.
+
+Upload your CV and include a few lines about your motivation. Please do not include a photo or personal information not relevant to your professional experience.
+
+If you have questions, please contact Andreas Madsen, Director, Enterprise Data Platform at ARSM@lundbeck.com
+
+Applications must be received by 14 December 2026
+
+We review applications and conduct interviews on an ongoing basis and reserve the right close the position before the advertise deadline if we find the right candidate. We therefore encourage you to apply as soon as possible
+
+Learn more at www.lundbeck.com or follow us on LinkedIn and Instagram (@h_lundbeck).

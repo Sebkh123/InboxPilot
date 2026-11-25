@@ -1,0 +1,24 @@
+bout the job
+Part-time full-stack developer for Terminal, the web app used to configure and update WALLHACK devices like our K-001 keyboard and M-001 Mouse.
+
+Responsibilities
+
+Features: build features end to end, across the interface, device communication and backend, such as key remapping, LED effects and online firmware updating.
+Backend and infrastructure: maintain the repo, CI/CD, hosting, backend services and data, and the offline (desktop) build, including app signing for macOS and Windows.
+UI/UX design: design new screens, flows and interactions, and make complex device settings feel simple. Keep the look and feel consistent with the WALLHACK brand.
+Firmware coordination: work closely with our firmware engineers on SDKs, HID protocols and release timing.
+Firmware rollouts: integrate each new firmware into Terminal, test it in a sandbox with QC, and push it live.
+New SKUs and products: add new products and variants to Terminal, including device detection, layout UI and the firmware update pipeline.
+Bugs and polish: fix what QC and the community find, and keep the app fast and clean.
+Planning: estimate and sequence the work with the product owner, and flag what is possible when new products are being defined.
+
+Skills
+
+A full-stack developer who can show products you have built end to end, from interface to backend.
+A strong design eye: layout, typography, interaction and a feel for what makes software for enthusiasts satisfying to use. Comfortable in Figma or similar.
+Solid in TypeScript, a modern frontend framework (React or similar) and backend development (Node.js or similar).
+Comfortable running the whole delivery pipeline: repo, CI/CD, hosting and releases.
+Willing to get into how the browser talks to hardware (WebHID) and to dig in with our firmware engineers when the SDK is not behaving.
+Experience using AI coding tools (Claude Code, Cursor, Copilot or similar) as a normal part of your workflow.
+Pragmatic and self-directed. You are the only developer on Terminal, working from priorities set by the product owner.
+Fluent in English. Danish is not required.

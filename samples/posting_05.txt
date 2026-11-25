@@ -1,0 +1,41 @@
+Vil du udvikle de dataløsninger, som analyse, rapportering, AI og automatisering bygger på i ATP? Vil du være med til at modernisere vores datalandskab og præge den fælles dataplatform? Og motiveres du af at skabe løsninger, som mange kolleger bruger hver dag? Så er det dig, vi søger.
+Som Data Engineer er du med til at udvikle ATP's fælles dataplatform og de datalag, der gør data anvendelige til rapportering, analyser, økonomistyring, AI og automatisering på tværs af organisationen.
+Du bliver en del af Data Foundation, hvor vi udvikler og driver det tekniske datafundament, som andre løsninger og forretningsområder bygger videre på. Vi indsamler, sammenstiller og modellerer data fra ATP’s mange fag- og udbetalingssystemer.
+Vi arbejder også med nye måder at anvende data på. Blandt andet udvikler vi løsninger, hvor brugerne kan stille spørgsmål til data på almindeligt sprog og få svar baseret på de modellerede datalag.
+Og så står vi midt i en modernisering af vores datalandskab. Derfor får du mulighed for både at videreudvikle eksisterende løsninger og være med til at sætte retningen for de teknologier, principper og arbejdsmetoder, vi bygger fremtidens dataplatform på.
+Dine opgaver
+Du kommer til at arbejde med alt fra dataintegration og modellering til udvikling af pipelines og platformskomponenter. Du udvikler de løsninger, der flytter data fra kildesystemer til fælles datalag, som bruges til alt fra økonomistyring og rapportering til nye AI-løsninger.
+Mere konkret bliver dine opgaver at:
+designe, udvikle og vedligeholde robuste og skalerbare datapipelines og dataløsninger
+arbejde med dataintegration, datamodellering og transformation af data på tværs af kildesystemer
+udvikle løsninger med SQL og Python og bidrage til en moderne, kodebaseret tilgang til data engineering
+automatisere udvikling, test og deployment gennem CI/CD og DevOps-principper
+bygge løsninger, hvor datakvalitet, sporbarhed og driftssikkerhed er tænkt ind fra starten
+være med til at sætte retningen for vores fælles dataplatform, arkitektur og tekniske standarder
+samarbejde med analytikere, udviklere og forretningsområder om at omsætte databehov til holdbare tekniske løsninger. 
+
+Hvem er du?
+Vi forestiller os, at du har en teknisk baggrund og erfaring med data engineering, softwareudvikling eller lignende. Du trives med at arbejde tæt på teknologien og motiveres af at bygge løsninger, der er veldesignede, automatiserede og nemme at videreudvikle.
+Vi lægger særligt vægt på, at du:
+har erfaring med SQL og gerne Python
+har arbejdet med udvikling af datapipelines, dataintegration og datatransformation
+har forståelse for software engineering, versionsstyring, test og CI/CD
+interesserer dig for moderne dataplatforme, cloudteknologier og dataarkitektur
+har blik for datakvalitet, performance og vedligeholdelse
+arbejder struktureret, tager ansvar og trives med faglig sparring og samarbejde. 
+
+Det er en fordel, hvis du har erfaring med værktøjer og teknologier som dbt, Coder, Azure eller Azure DevOps. Interesse for eller erfaring med AI-understøttet og agentisk softwareudvikling er også et plus, men det er ikke et krav.
+Det vigtigste er, at du har et solidt teknisk fundament, er nysgerrig og har lyst til at udvikle dig sammen med os.
+Hvem er vi?
+Du bliver en del af et team på 5-6 udviklere, som udvikler og driver ATP's fælles dataplatform. Faglig sparring fylder en del i hverdagen - uanset om det handler om en ny datapipeline, en datamodel eller en teknisk udfordring, der kræver flere perspektiver. Nogle gange sparrer vi omkring tavlen, andre gange i kodegennemgange eller over en kop kaffe.
+Vi er nysgerrige på nye teknologier og arbejdsmetoder, men vi går lige så meget op i at finde løsninger, der fungerer stabilt og kan vedligeholdes over tid.
+Du bliver desuden en del af en sektion med 15 kolleger, hvor vi deler viden på tværs og har stor indflydelse på den retning, vi bevæger os i. Her er plads til at udfordre eksisterende løsninger, komme med idéer og være med til at forme det fælles datafundament.
+Sådan ansøger du
+Send os dit CV senest onsdag den 16. december. Når du sender dit CV via vores system, får du mulighed for kort at beskrive din motivation for at søge stillingen.
+I ATP arbejder vi for en fair rekrutteringsproces, og derfor beder vi dig om ikke at vedhæfte billede i dit CV eller angive din alder, når du søger.
+Vi ansætter på baggrund af kompetencer og potentiale og opfordrer alle til at søge stillingen – uanset køn og kønsidentitet, etnicitet, national, social og kulturel baggrund, religion eller tro, seksuel orientering, funktionsnedsættelse og alder.
+Du kan læse mere om rekrutteringsforløbet her.
+Har du spørgsmål til stillingen, er du velkommen til at kontakte sektionschef Emil Nygaard Jørgensen på tlf. 2499 8491 eller mail enj@atp.dk.
+
+Af sikkerhedsmæssige årsager og for at beskytte værdier og datainfrastruktur beder vi om straffeattest, kopi af dit pas og eventuelt eksamensbevis. Straffeattesten må ikke give anledning til bemærkninger, og dokumenterne slettes umiddelbart efter vurdering.
+Til annoncører og rekrutteringsbureauer: ATP frabeder sig uopfordrede henvendelser om annoncering, kandidater, produkter og ydelser i forbindelse med stillingsopslag og rekrutteringer. Vi beder om, at dette respekteres, og at vores ledere og medarbejdere ikke kontaktes i den henseende.

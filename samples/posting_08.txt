@@ -1,0 +1,68 @@
+About the job
+Europe
+
+ Copenhagen preferred
+ In-person collaboration as needed
+
+Build the systems that help us treat more patients
+
+Helping more people live without the pain, discomfort and limitations caused by varicose veins takes more than opening new clinics. It takes systems that enable our teams to deliver excellent care as we grow.
+
+At Nordic Health Group, we operate 60+ dedicated vein clinics across Denmark, Sweden, Norway, the Netherlands and the UK, with ambitious plans to expand our network and improve more patients’ quality of life.
+
+We are looking for an AI-native Systems Builder to fundamentally rethink how NHG operates — questioning established processes, removing unnecessary work and personally building new systems and workflows that help us grow our impact.
+
+The opportunity
+
+You will report directly to our CEO and work closely with our Chief People & Operations Officer (CPOO), who retains overall accountability for Growth & Operations results. You will own the identification, development and implementation of initiatives in close alignment with them. You will work across Operations, Finance, administration and other functions.
+
+Your mission is to make NHG fundamentally more productive through AI, automation and connected systems. You will have a clear mandate to investigate how work gets done, identify valuable opportunities and take solutions from idea to everyday use.
+
+This requires technical depth, business judgment and close collaboration with the people who will use what you build. We expect you to find opportunities and act on them, taking responsibility for both delivery and business value.
+
+What You Will Do
+
+Find recurring bottlenecks, fragmented information and manual processes, and prioritise problems by their business impact, the effort required and the operational constraints involved.
+Rethink how work should be done before deciding what to automate, including removing unnecessary steps or rebuilding workflows entirely.
+Personally build and deploy AI agents, integrations, internal applications and automations.
+Connect existing systems and data so information moves reliably across the business.
+Validate the data and assumptions behind each solution, and adapt when requirements or conditions change.
+Start with a small, useful solution, test it with the people who will use it and define clear measures of success before scaling.
+Build reusable solutions that work across teams and countries, owning testing, rollout, documentation, monitoring and maintenance.
+Measure results through time saved, fewer errors, better decisions and increased operational capacity.
+
+A working prototype is the beginning. Your responsibility continues until the solution is dependable, adopted and delivering value.
+
+What You Bring
+
+You may come from software engineering, AI engineering, automation, product development or building your own business. Your track record matters more than your title, degree or years of experience.
+
+We are looking for:
+
+Experience personally shipping and maintaining systems or applications used by real people.
+Daily, advanced use of AI coding tools and agents, with the technical ability to review, test and improve their output.
+Practical experience with APIs, integrations, databases and application development.
+Sound judgment about testing, access controls, monitoring and handling failures.
+Careful handling of sensitive information and an understanding of where human oversight is needed.
+The ability to work with incomplete information, explain trade-offs and revise your conclusions when the evidence changes.
+A practical approach to building: deliver something useful early, verify that it works and improve it through real use.
+Independence, follow-through and the ability to help colleagues adopt new ways of working.
+Professional fluency in English and the ability to collaborate across functions and countries.
+
+You know when to use AI, when a straightforward integration will do and when the process itself needs to change.
+
+Why NHG?
+
+You will have access to operational challenges across an established international healthcare business, with the freedom to identify opportunities and the responsibility to deliver.
+
+Our ambition is to become an AI-native organization, and you will help build the foundations for that change, enabling our colleagues to support more patients as we grow.
+
+This is an individual contributor role with substantial ownership, direct access to decision-makers and the opportunity to shape the systems behind our international expansion.
+
+Copenhagen is our preferred base, but we welcome exceptional candidates across Europe, with in-person collaboration at our HQ and across the business as needed.
+
+Show Us What You Have Built
+
+Apply with your CV or professional profile and one concrete example of a system, application or automation you personally built and deployed.
+
+Tell us what problem it solved, what you built, how you used AI and who uses it today. A live link, repository, screenshot or short demo is welcome. An anonymised example is fine if your work is confidential.
