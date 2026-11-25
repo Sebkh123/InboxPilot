@@ -31,6 +31,14 @@ class PayPeriod(str, Enum):
     YEAR = "year"
 
 
+class Seniority(str, Enum):
+    INTERN = "intern"
+    JUNIOR = "junior"
+    MID = "mid"
+    SENIOR = "senior"
+    LEAD = "lead"  # staff, principal, lead, head-of
+
+
 class Compensation(BaseModel):
     min_amount: float | None = Field(None, description="Lower bound of the pay range.")
     max_amount: float | None = Field(
@@ -54,6 +62,16 @@ class JobPosting(BaseModel):
     model_config = ConfigDict(extra="forbid")
     title: str = Field(..., description="Job title as written, e.g. 'Senior Backend Engineer'.")
     company: str | None = Field(None, description="Hiring company; None if not named (e.g. recruiter outreach).")
+    language: str = Field(
+        ...,
+        description="ISO 639-1 code of the language the posting is written in, e.g. 'en', 'da'. "
+        "Decides the cover letter language. Not the languages required of the applicant.",
+    )
+    seniority: Seniority | None = Field(
+        None,
+        description="From the title or stated experience. 'lead' covers staff/principal/lead roles. "
+        "None if neither gives a clear signal.",
+    )
     locations: list[str] = Field(
         default_factory=list, description="Cities/regions as written, e.g. ['Austin, TX']."
     )

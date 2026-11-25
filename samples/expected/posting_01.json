@@ -1,6 +1,8 @@
 {
   "title": "Senior Backend Engineer",
   "company": "Northwind Analytics",
+  "language": "en",
+  "seniority": "senior",
   "locations": ["Austin, TX"],
   "work_mode": "hybrid",
   "remote_restrictions": null,
